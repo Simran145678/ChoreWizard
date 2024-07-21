@@ -16,3 +16,6 @@ chore Wizard is a Todo List application built with vanilla JavaScript. It allows
 - **CSS**: Styling and layout of the application.
 - **JavaScript**: Logic and functionality of the application.
 - **Local Storage**: For persistent task storage.
+
+
+<img width="448" alt="Screenshot 2024-07-20 at 9 11 19 PM" src="https://github.com/user-attachments/assets/0e627f0a-7347-4c8d-a394-4dd8e86fa2ef">
